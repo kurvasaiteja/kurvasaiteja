@@ -1,7 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kurva+Saiteja+%F0%9F%91%8B;Associate+Machine+Learning+Engineer+%40+Brightcone.ai;Building+Intelligent+AI+Solutions;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kurva+Saiteja+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;I'm+a+Associate+Machine+Learning+Engineer;I+love+building+cool+projects)](https://git.io/typing-svg)
+### 👨‍💻 About Me
 
-
+- 💼 Currently working as an **Associate Machine Learning Engineer at [Brightcone.ai](https://brightcone.ai/)**
+- 🤖 Interested in Machine Learning, Artificial Intelligence, and Deep Learning
+- 🧠 Passionate about building intelligent, data-driven applications
+- 🚀 Always learning and exploring new technologies
 <!--
 **kurvasaiteja/kurvasaiteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
